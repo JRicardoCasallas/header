@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(19, 207, 188);
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* Estilos del contenedor */
+.container {
+    background-color: rgb(115, 255, 0);
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+header {
+    background: #000000f7;
+    color: #f01ebb;
+    padding: 20px 0;
+    text-align: center;
+}
+h1{
+    background-color: blue;
+}
+.nav {
+    background-color: rgba(215, 33, 215, 0.183);
+}
+.ul{
+    background-color: rgb(26, 25, 25);
+}
+.li1 {
+    background-color: bisque;
+}
+.li2{
+    background-color: aquamarine;
+}
+.li3{
+    background-color: tomato;
+}
+#about1 {
+    background-color: #f01ea6;
+}
+h2{
+    background-color: aquamarine;
+}
+p{
+    background-color: aliceblue;
+}
+.colorh2{
+    background-color: rgb(95, 17, 219);
+
+}
